@@ -1,0 +1,15 @@
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\bin\Debug\net6.0\PooUsoCoches.exe
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\bin\Debug\net6.0\PooUsoCoches.deps.json
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\bin\Debug\net6.0\PooUsoCoches.runtimeconfig.json
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\bin\Debug\net6.0\PooUsoCoches.dll
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\bin\Debug\net6.0\PooUsoCoches.pdb
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\obj\Debug\net6.0\PooUsoCoches.csproj.AssemblyReference.cache
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\obj\Debug\net6.0\PooUsoCoches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\obj\Debug\net6.0\PooUsoCoches.AssemblyInfoInputs.cache
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\obj\Debug\net6.0\PooUsoCoches.AssemblyInfo.cs
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\obj\Debug\net6.0\PooUsoCoches.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\obj\Debug\net6.0\PooUsoCoches.dll
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\obj\Debug\net6.0\refint\PooUsoCoches.dll
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\obj\Debug\net6.0\PooUsoCoches.pdb
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\obj\Debug\net6.0\PooUsoCoches.genruntimeconfig.cache
+C:\Proyectos C#\PooUsoCoches\PooUsoCoches\obj\Debug\net6.0\ref\PooUsoCoches.dll

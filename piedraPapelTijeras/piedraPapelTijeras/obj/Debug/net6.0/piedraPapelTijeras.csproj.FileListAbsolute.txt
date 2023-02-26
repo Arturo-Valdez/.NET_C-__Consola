@@ -1,0 +1,15 @@
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\bin\Debug\net6.0\piedraPapelTijeras.exe
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\bin\Debug\net6.0\piedraPapelTijeras.deps.json
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\bin\Debug\net6.0\piedraPapelTijeras.runtimeconfig.json
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\bin\Debug\net6.0\piedraPapelTijeras.dll
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\bin\Debug\net6.0\piedraPapelTijeras.pdb
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\obj\Debug\net6.0\piedraPapelTijeras.csproj.AssemblyReference.cache
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\obj\Debug\net6.0\piedraPapelTijeras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\obj\Debug\net6.0\piedraPapelTijeras.AssemblyInfoInputs.cache
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\obj\Debug\net6.0\piedraPapelTijeras.AssemblyInfo.cs
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\obj\Debug\net6.0\piedraPapelTijeras.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\obj\Debug\net6.0\piedraPapelTijeras.dll
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\obj\Debug\net6.0\refint\piedraPapelTijeras.dll
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\obj\Debug\net6.0\piedraPapelTijeras.pdb
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\obj\Debug\net6.0\piedraPapelTijeras.genruntimeconfig.cache
+C:\Proyectos C#\piedraPapelTijeras\piedraPapelTijeras\obj\Debug\net6.0\ref\piedraPapelTijeras.dll

@@ -1,0 +1,15 @@
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\bin\Debug\net6.0\SortTheNumbers.exe
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\bin\Debug\net6.0\SortTheNumbers.deps.json
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\bin\Debug\net6.0\SortTheNumbers.runtimeconfig.json
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\bin\Debug\net6.0\SortTheNumbers.dll
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\bin\Debug\net6.0\SortTheNumbers.pdb
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\obj\Debug\net6.0\SortTheNumbers.csproj.AssemblyReference.cache
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\obj\Debug\net6.0\SortTheNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\obj\Debug\net6.0\SortTheNumbers.AssemblyInfoInputs.cache
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\obj\Debug\net6.0\SortTheNumbers.AssemblyInfo.cs
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\obj\Debug\net6.0\SortTheNumbers.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\obj\Debug\net6.0\SortTheNumbers.dll
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\obj\Debug\net6.0\refint\SortTheNumbers.dll
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\obj\Debug\net6.0\SortTheNumbers.pdb
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\obj\Debug\net6.0\SortTheNumbers.genruntimeconfig.cache
+C:\Proyectos C#\SortTheNumbers\SortTheNumbers\obj\Debug\net6.0\ref\SortTheNumbers.dll

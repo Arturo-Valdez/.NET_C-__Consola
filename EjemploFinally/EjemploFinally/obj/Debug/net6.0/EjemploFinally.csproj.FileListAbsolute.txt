@@ -1,0 +1,15 @@
+C:\Proyectos C#\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.csproj.AssemblyReference.cache
+C:\Proyectos C#\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos C#\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.AssemblyInfoInputs.cache
+C:\Proyectos C#\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.AssemblyInfo.cs
+C:\Proyectos C#\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\EjemploFinally\EjemploFinally\bin\Debug\net6.0\EjemploFinally.exe
+C:\Proyectos C#\EjemploFinally\EjemploFinally\bin\Debug\net6.0\EjemploFinally.deps.json
+C:\Proyectos C#\EjemploFinally\EjemploFinally\bin\Debug\net6.0\EjemploFinally.runtimeconfig.json
+C:\Proyectos C#\EjemploFinally\EjemploFinally\bin\Debug\net6.0\EjemploFinally.dll
+C:\Proyectos C#\EjemploFinally\EjemploFinally\bin\Debug\net6.0\EjemploFinally.pdb
+C:\Proyectos C#\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.dll
+C:\Proyectos C#\EjemploFinally\EjemploFinally\obj\Debug\net6.0\refint\EjemploFinally.dll
+C:\Proyectos C#\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.pdb
+C:\Proyectos C#\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.genruntimeconfig.cache
+C:\Proyectos C#\EjemploFinally\EjemploFinally\obj\Debug\net6.0\ref\EjemploFinally.dll

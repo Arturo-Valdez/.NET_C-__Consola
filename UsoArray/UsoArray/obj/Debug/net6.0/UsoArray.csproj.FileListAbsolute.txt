@@ -1,0 +1,15 @@
+C:\Proyectos C#\UsoArray\UsoArray\bin\Debug\net6.0\UsoArray.exe
+C:\Proyectos C#\UsoArray\UsoArray\bin\Debug\net6.0\UsoArray.deps.json
+C:\Proyectos C#\UsoArray\UsoArray\bin\Debug\net6.0\UsoArray.runtimeconfig.json
+C:\Proyectos C#\UsoArray\UsoArray\bin\Debug\net6.0\UsoArray.dll
+C:\Proyectos C#\UsoArray\UsoArray\bin\Debug\net6.0\UsoArray.pdb
+C:\Proyectos C#\UsoArray\UsoArray\obj\Debug\net6.0\UsoArray.csproj.AssemblyReference.cache
+C:\Proyectos C#\UsoArray\UsoArray\obj\Debug\net6.0\UsoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos C#\UsoArray\UsoArray\obj\Debug\net6.0\UsoArray.AssemblyInfoInputs.cache
+C:\Proyectos C#\UsoArray\UsoArray\obj\Debug\net6.0\UsoArray.AssemblyInfo.cs
+C:\Proyectos C#\UsoArray\UsoArray\obj\Debug\net6.0\UsoArray.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\UsoArray\UsoArray\obj\Debug\net6.0\UsoArray.dll
+C:\Proyectos C#\UsoArray\UsoArray\obj\Debug\net6.0\refint\UsoArray.dll
+C:\Proyectos C#\UsoArray\UsoArray\obj\Debug\net6.0\UsoArray.pdb
+C:\Proyectos C#\UsoArray\UsoArray\obj\Debug\net6.0\UsoArray.genruntimeconfig.cache
+C:\Proyectos C#\UsoArray\UsoArray\obj\Debug\net6.0\ref\UsoArray.dll

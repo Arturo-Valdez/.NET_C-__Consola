@@ -1,0 +1,15 @@
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\bin\Debug\net6.0\ArraysPorParametros.exe
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\bin\Debug\net6.0\ArraysPorParametros.deps.json
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\bin\Debug\net6.0\ArraysPorParametros.runtimeconfig.json
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\bin\Debug\net6.0\ArraysPorParametros.dll
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\bin\Debug\net6.0\ArraysPorParametros.pdb
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\obj\Debug\net6.0\ArraysPorParametros.csproj.AssemblyReference.cache
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\obj\Debug\net6.0\ArraysPorParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\obj\Debug\net6.0\ArraysPorParametros.AssemblyInfoInputs.cache
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\obj\Debug\net6.0\ArraysPorParametros.AssemblyInfo.cs
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\obj\Debug\net6.0\ArraysPorParametros.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\obj\Debug\net6.0\ArraysPorParametros.dll
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\obj\Debug\net6.0\refint\ArraysPorParametros.dll
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\obj\Debug\net6.0\ArraysPorParametros.pdb
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\obj\Debug\net6.0\ArraysPorParametros.genruntimeconfig.cache
+C:\Proyectos C#\ArraysPorParametros\ArraysPorParametros\obj\Debug\net6.0\ref\ArraysPorParametros.dll

@@ -1,0 +1,15 @@
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\bin\Debug\net6.0\ContadorDeLetras.exe
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\bin\Debug\net6.0\ContadorDeLetras.deps.json
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\bin\Debug\net6.0\ContadorDeLetras.runtimeconfig.json
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\bin\Debug\net6.0\ContadorDeLetras.dll
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\bin\Debug\net6.0\ContadorDeLetras.pdb
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\obj\Debug\net6.0\ContadorDeLetras.csproj.AssemblyReference.cache
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\obj\Debug\net6.0\ContadorDeLetras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\obj\Debug\net6.0\ContadorDeLetras.AssemblyInfoInputs.cache
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\obj\Debug\net6.0\ContadorDeLetras.AssemblyInfo.cs
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\obj\Debug\net6.0\ContadorDeLetras.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\obj\Debug\net6.0\ContadorDeLetras.dll
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\obj\Debug\net6.0\refint\ContadorDeLetras.dll
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\obj\Debug\net6.0\ContadorDeLetras.pdb
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\obj\Debug\net6.0\ContadorDeLetras.genruntimeconfig.cache
+C:\Proyectos C#\ContadorDeLetras\ContadorDeLetras\obj\Debug\net6.0\ref\ContadorDeLetras.dll
